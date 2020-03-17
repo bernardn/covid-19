@@ -36,7 +36,7 @@ CAN;Common Wealth
 CCK;Common Wealth
 CHE;W. Europe
 CHL;Latin America
-CHN;China
+CHN;Asia
 CIV;Subsaharan Africa
 CMR;Subsaharan Africa
 COD;Subsaharan Africa
@@ -95,7 +95,7 @@ IDN;Asia
 IMN;Common Wealth
 IND;Asia
 IRL;W. Europe
-IRN;Iran
+IRN;Middle East, North Africa
 IRQ;Middle East, North Africa
 ISL;W. Europe
 ISR;Israel
@@ -109,7 +109,7 @@ KEN;Subsaharan Africa
 KGZ;E. Europe
 KHM;Asia
 KNA;Common Wealth
-KOR;S. Korea
+KOR;Asia
 KWT;Middle East, North Africa
 LAO;Asia
 LBN;Middle East, North Africa
@@ -208,7 +208,7 @@ TLS;Asia
 TON;
 TTO;Latin America
 TUN;Middle East, North Africa
-TUR;Turkey
+TUR;Middle East, North Africa
 TUV;
 TWN;Asia
 TZA;Subsaharan Africa
