@@ -1,53 +1,123 @@
 Date;Country;Region;Event;Impact people;Note;;
-21-01-2020;US;Washington;First case, returned from Wuhan on Jan. 15th. Pneumonia symptoms appeared the 19th.;;;;
-23-01-2020;Russia; Blagoveshchensk;Access to the country limited;;;;
-29-01-2020;Belgium;;Phase 1: Isolation Strategy;;;;
-29-01-2020;Belgium;;Travel notice issuance advising against non-essential flights to China, Hong Kong excluded, with some travel companies cancelling all flights to China;;;;
-02-02-2020;US;;Madatory quarantine for citizens having been in Hubei in the past 14 days;;;;
-02-02-2020;US;;Foreign nationals having traveled the 14 days banned from entry. US residents must enter through approved airport;;;;
-20-02-2020;Russia;;Entry of Chinese citizens banned;;;;
-22-02-2020;Italy;;Mandatory quarantine for 11 municipalities. Penalties for violations range from a €206 fine to three months of imprisonment.;50000;;;
-22-02-2020;Italy;Lombardy;Sport events cancelled;;;;
-22-02-2020;Italy;Veneto;Sport events cancelled;;;;
-23-02-2020;Belgium;;Foreign affairs update travel recommandations for Italy;;;;
-25-02-2020;US;;CDC states their expectation to see the virus spreading in US;;;;
-26-02-2020;Italy;;Testing Prioritization: Swabbing will now only be performed on symptomatic patients;;;;
-28-02-2020;US;;Boosts production of protective gear;;https://www.reuters.com/article/us-china-health-usa-idUSKCN20M2BI;;
-28-02-2020;US;;CDC raised their travel advisory to South Korea, Italy and Iran at the highest level;;;;
-28-02-2020;Russia;;Entry of Iranian citizens banned;;;;
-29-02-2020;US;Washington;State of Emergency;;;;
-01-03-2020;US;Florida;Public Health Emergency;;;;
-01-03-2020;Belgium;;Phase 2: Strategy to Containment;;Phase 3: Crisis management;;
-01-03-2020;Belgium;;Advice to travellers returning from Italy to pay attention to their symptoms;;;;
-02-03-2020;Italy;;Healthcare system at limit;;;;
-02-03-2020;US;Texas;Public Health Emergency;;;;
-03-03-2020;US;;State of Emergency;;;;
-03-03-2020;Italy;;Extended Red Zone;;;;
-03-03-2020;Czech Republic;;Suspension of flights from northern Italy and South Korea.;;;;
-04-03-2020;US;Hawaii;State of Emergency;;;;
-04-03-2020;Italy;;Closure of All Schools;;;;
-04-03-2020;Russia;;Ban of export of medical supplies;;;;
-04-03-2020;Russia;;Suspension train connection Moscow/Nice (France);;;;
-06-03-2020;US;Indiana;Public Health Emergency;;;;
-06-03-2020;Russia;;Mandatory two weeks quarantine for travellers returning from China, South Korea, Iran, France, Germany, Italy and Spain;;;;
-07-03-2020;Czech Republic;;Mandatory two weeks quarantine for travellers returning from Italy. Fine up to 120000 Euros.;;;;
-08-03-2020;Italy;Lombardy;Lock Down;16000000;;;
-08-03-2020;France;;Gatherings > 1000 ppl Banned;;;;
-08-03-2020;US;;Strategy from Containment to Mitigation;;;;
-08-03-2020;Belgium;;Testing Prioritization: Swabbing will now only be performed on symptomatic patients with travel history;;;;
-08-03-2020;Russia;;Prison terms up to five years for breaking quarantine;;;;
-09-03-2020;Czech Republic;;Visits to general hospital wards and senior homes indefinitely banned;;;;
-09-03-2020;US;New Jersey;State of Emergency;;;;
-09-03-2020;US;Ohio;State of Emergency;;;;
-10-03-2020;US;;Private tests kits are available on the market;;;;
-10-03-2020;Czech Republic;;Closure of All Schools;;;;
-10-03-2020;Czech Republic;;Gatherings > 100 ppl Banned;;;;
-10-03-2020;US;Colorado;State of Emergency;;;;
-10-03-2020;US;Connecticut;Public Health Emergency;;;;
-10-03-2020;US;North Carolina;State of Emergency;;;;
-11-03-2020;Hungary;;State of Emergency;;;;
-11-03-2020;Israel;;Gatherings > 2000 ppl Banned;;;;
+21-01-2020;USA;Washington;First case detected, returned from Wuhan on Jan. 15th. Pneumonia symptoms appeared the 19th.;;;;
+23-01-2020;RUS; Blagoveshchensk;Access to the country limited;;;;
+29-01-2020;BEL;;Phase 1: Isolation Strategy;;;;
+29-01-2020;BEL;;Travel notice issuance advising against non-essential flights to China, Hong Kong excluded, with some travel companies cancelling all flights to China;;;;
+02-02-2020;USA;;Madatory quarantine for citizens having been in Hubei in the past 14 days;;;;
+02-02-2020;USA;;Foreign nationals having traveled the 14 days banned from entry. US residents must enter through approved airport;;;;
+20-02-2020;RUS;;Entry of Chinese citizens banned;;;;
+22-02-2020;ITA;;Mandatory quarantine for 11 municipalities. Penalties for violations range from a €206 fine to three months of imprisonment.;50000;;;
+22-02-2020;ITA;Lombardy;Sport events cancelled;;;;
+22-02-2020;ITA;Veneto;Sport events cancelled;;;;
+23-02-2020;BEL;;Foreign affairs update travel recommandations for Italy;;;;
+25-02-2020;USA;;CDC states their expectation to see the virus spreading in US;;;;
+26-02-2020;ITA;;Testing Prioritization: Swabbing will now only be performed on symptomatic patients;;;;
+28-02-2020;RUS;;Entry of Iranian citizens banned;;;;
+28-02-2020;USA;;Boosts production of protective gear;;https://www.reuters.com/article/us-china-health-usa-idUSKCN20M2BI;;
+28-02-2020;USA;;CDC raised their travel advisory to South Korea, Italy and Iran at the highest level;;;;
+29-02-2020;USA;Washington;State of Emergency;;;;
+01-03-2020;BEL;;Phase 2: Strategy to Containment;;Phase 3: Crisis management;;
+01-03-2020;BEL;;Advice to travellers returning from Italy to pay attention to their symptoms;;;;
+01-03-2020;USA;Florida;Public Health Emergency;;;;
+02-03-2020;ITA;;Healthcare system at limit;;;;
+02-03-2020;USA;Texas;Public Health Emergency;;;;
+03-03-2020;CZE;;Suspension of flights from northern Italy and South Korea.;;;;
+03-03-2020;ITA;;Extended Red Zone;;;;
+03-03-2020;USA;;State of Emergency;;;;
+04-03-2020;ITA;;Closure of All Schools;;;;
+04-03-2020;RUS;;Ban of export of medical supplies;;;;
+04-03-2020;RUS;;Suspension train connection Moscow/Nice (France);;;;
+04-03-2020;USA;Hawaii;State of Emergency;;;;
+06-03-2020;RUS;;Mandatory two weeks quarantine for travellers returning from China, South Korea, Iran, France, Germany, Italy and Spain;;;;
+06-03-2020;USA;Indiana;Public Health Emergency;;;;
+07-03-2020;CZE;;Mandatory two weeks quarantine for travellers returning from Italy. Fine up to 120000 Euros.;;;;
+08-03-2020;BEL;;Testing Prioritization: Swabbing will now only be performed on symptomatic patients with travel history;;;;
+08-03-2020;FRA;;Gatherings > 1000 ppl Banned;;;;
+08-03-2020;ITA;Lombardy;Lock Down;16000000;;;
+08-03-2020;RUS;;Prison terms up to five years for breaking quarantine;;;;
+08-03-2020;USA;;Strategy from Containment to Mitigation;;;;
+09-03-2020;CZE;;Visits to general hospital wards and senior homes indefinitely banned;;;;
+09-03-2020;USA;New Jersey;State of Emergency;;;;
+09-03-2020;USA;Ohio;State of Emergency;;;;
+10-03-2020;CZE;;Closure of All Schools;;;;
+10-03-2020;CZE;;Gatherings > 100 ppl Banned;;;;
+10-03-2020;USA;;Private tests kits are available on the market;;;;
+10-03-2020;USA;Colorado;State of Emergency;;;;
+10-03-2020;USA;Connecticut;Public Health Emergency;;;;
+10-03-2020;USA;North Carolina;State of Emergency;;;;
+10-03-2020;CZE;;Army deployed at borders;;;;
+11-03-2020;HUN;;State of Emergency;;;;
+11-03-2020;ISR;;Gatherings > 2000 ppl Banned;;;;
 11-03-2020;WHO;;Declares pandemic, but not the time for countries to move to mitigation yet. Must still try to suppress transmission and continue with containment efforts;;;;
-12-03-2020;US;;All Travel from Europe to the United States suspended for 30 Days;;;;
-12-03-2020;Italy;;Lock Down (medium) : closes all commercial activities, offices, cafes, shops: only transportation, pharmacies, groceries will remain open;;;;
-12-03-2020;Czech Republic;;The government has declared an emergency in the Czech Republic since Thursday 2 pm due to the Coronavirus. It also banned events with more than 30 people and banned restaurants from 8pm to 6am. It also restricted entry to the Czech Republic for foreigners and prohibited Czech citizens from entering risky countries. The measures should be valid for 30 days.;;;;
+11-03-2020;AUT;;Borders control reintroduction: land border with Italy;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+11-03-2020;BEL;;Testing Prioritization: Swabbing will now only be performed on symptomatic patients;;https://epidemio.wiv-isp.be/ID/Documents/Covid19/Dernière%20mise%20à%20jour%20de%20la%20situation%20épidémiologique.pdf;;
+12-03-2020;CZE;;The government has declared an emergency in the Czech Republic since Thursday 2 pm due to the Coronavirus. It also banned events with more than 30 people and banned restaurants from 8pm to 6am. It also restricted entry to the Czech Republic for foreigners and prohibited Czech citizens from entering risky countries. The measures should be valid for 30 days.;;;;
+12-03-2020;ITA;;Lock Down (medium) : closes all commercial activities, offices, cafes, shops: only transportation, pharmacies, groceries will remain open;;;;
+12-03-2020;USA;;All Travel from Europe to the United States suspended for 30 Days;;;;
+12-03-2020;HUN;;Borders control reintroduction: land borders with Austria and Slovenia;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+13-03-2020;CHE;;Borders control reintroduction: land border with Italy;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+13-03-2020;CZE;;Restaurants may operate from 6 AM to 8 PM. Home delivery possible 24/7. Restaurants in shopping malls with size over 5.000m2 closed.;;;;
+14-03-2020;CZE;;Borders control reintroduction: land borders with Austria and Germany, air borders;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+14-03-2020;CZE;;"All publicly accessible restaurants closed.
+Restaurants may sell food through storefront windows if customers don't enter premises 24/7.
+Home delivery possible 24/7.";;;;
+14-03-2020;LTU;;Borders control reintroduction: all internal borders;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+14-03-2020;CZE;;"General closure of services and retails sale
+Ban on provision of services and retail sale with exemption of:
+food,
+IT and other electronics and home appliances
+gas stations and fuels
+drugstores
+pharmacies
+small domestic animals
+glasses and other optics
+newspapers and magazines
+cigarettes
+laundry
+sale over internet or telephone of goods that are otherwise generally available in the given physical store";;;;
+14-03-2020;AUT;;Borders control reintroduction: land borders with Switzerland and Liechtenstein.;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+14-03-2020;CZE;;Drive through testing;;;;
+14-03-2020;ESP;;State of Alarm;;;;
+14-03-2020;ESP;Madrid;Closure of all schools;;;;
+15-03-2020;POL;;Borders control reintroduction: land borders with Czech Republic, Slovakia, Germany, Lithuania, sea borders, air borders;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+15-03-2020;SVK;;State of Emergency declared. All retail stores except food, drugstores, pharmacies, newspapers, post offices, banks, gas stations, and pet food stores will be closed for 14 days. Only necessary surgery will be performed in hospitals. Restaurants will only deliver;;;;
+15-03-2020;ESP;;Lock down. Citizens, except emergency personnel, will be able to leave their home only to buy food and drugs;;;;
+16-03-2020;CZE;;"Restrictions on movement outside of home with wide exemptions.
+The government,
+I. Bans free movement of persons, with following exceptions:
+a) getting to work
+b) necessary visits to family or close relatives
+c) necessary travels for essential life needs (groceries, drugs, medical and hygienic supplies, animal food, etc.) including essential needs for relatives and children, essential use of financial and post services and refueling.
+d) necessary travels as mentioned in c) for another person (i.e. neighbour, volunteering)
+e) travels to medical and social institutions
+f) travels to solve urgent official matters
+g) job occupation (or matters servicing it) of safety, health safety, individual spiritual service, public transport and other infrastructure, services for population (includes deliveries)
+h) stay in nature or parks
+i) travel back to the place of residence
+j) funerals
+II. orders
+a) persons to limit the movement at public places as much as possible (with exceptions mentioned above)
+b) limit the contact with another persons as much as possible
+III. recommends... see details in the offical document.";;;;
+16-03-2020;CZE;;"Students of secondary and tertiary schools welfare programs compelled to work duty.
+Welfare providers are ordered to provide welfare to recipients whose life or health may be in jeopardy (providers cannot refuse provision of welfare).";;;;
+16-03-2020;CZE;;"Travel Ban: Czech citizens: Not allowed to leave the country unless they have long term/permanent residency abroad. May return to the country; subject to mandatory 14 days self-quarantine (see above).
+Foreigners with long term/permanent residency: Allowed to leave the country. May return to the country if they were outside when measure adopted; subject to mandatory 14 days self-quarantine (see above). May not return to the country if left while measure was in force.
+Foreigners without long term/permanent residency: Allowed to leave the country. Not allowed to enter the country.";;;;
+16-03-2020;DEU;;Borders control reintroduction: land borders with Denmark, Luxembourg, France, Switzerland and Austria;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+16-03-2020;NOR;;Borders control reintroduction: all internal borders;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+16-03-2020;FRA;;People movement restriction;;;;
+16-03-2020;USA;;"New guidelines issued by the fed gov. Americans are urged to stay home and work from home if possible
+- people should avoid non-essential contacts with others and non-essential travel 
+- everyone should avoid eating in restaurants and bars
+- no social gatherings with more than 10 people
+- Governors are urged to close schools in states with 'evidence of community transmission'
+- the guidelines will be reviewed in 15 days";;;;
+16-03-2020;CAN;;All travellers entering Canada are being asked to self-isolate for 14 days upon entry with exceptions for workers who are essential to the movement of goods and people. Individuals should avoid contact with other people for 14 days, while monitoring themselves closely for symptoms.;;https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/canadas-reponse.html;;
+16-03-2020;EU;;Borders control reintroduction;;https://www.standard.co.uk/news/world/eu-close-borders-30-days-stop-coronavirus-spread-a4390101.html;;
+16-03-2020;AUS;;Mandatory 14-day self isolation for all international travellers entering the country;;https://www.news.com.au/lifestyle/health/health-problems/coronavirus-australia-live-coverage-death-toll-rises-to-five-as-covid19-cases-surge-government-urged-to-shut-schools/live-coverage/f55bf66e9f75436b8614a6ebbe59bd57;;
+16-03-2020;VEN;;Mandatory social quarantine in 7 states of the country: Caracas, La Guaira, Miranda, Zulia, Apure, Cojedes and Táchira;;;;
+17-03-2020;EST;;Borders control reintroduction: all internal borders;;https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/schengen/reintroduction-border-control_en;;
+18-03-2020;CAN;;Bans foreign nationals from all countries except the United States from entering Canada. This measure does not apply to air crews, travellers arriving in Canada in transit to a third country, Canadian permanent residents, diplomats or immediate family members of Canadian citizens.;;https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/canadas-reponse.html;;
+18-03-2020;ISR;;Urges its citizens to remain home and go out only for “vital needs and services”. Shopping for food is allowed only if no delvery option is available. Parks, beaches and malls will be off-limits. People will be allowed to exercise outdoors for 10 minutes if nobody is nearby;;;;
+18-03-2020;BEL;;Lock Down;;;;
