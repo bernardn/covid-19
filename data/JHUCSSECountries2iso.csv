@@ -10,6 +10,7 @@ Aruba;ABW
 Australia;AUS
 Austria;AUT
 Azerbaijan;AZE
+Bahamas, The;BHS
 Bahrain;BHR
 Bangladesh;BGD
 Barbados;BRB
@@ -28,6 +29,7 @@ Cameroon;CMR
 Canada;CAN
 Cayman Islands;CYM
 Central African Republic;CAF
+Chad;TCD
 Chile;CHL
 China;CHN
 Colombia;COL
@@ -42,17 +44,21 @@ Curacao;CUW
 Cyprus;CYP
 Czechia;CZE
 Denmark;DNK
+Djibouti;DJI
 Dominican Republic;DOM
 Ecuador;ECU
 Egypt;EGY
+El Salvador;SLV
 Equatorial Guinea;GNQ
 Estonia;EST
 Eswatini;SWZ
 Ethiopia;ETH
+Fiji;FJI
 Finland;FIN
 France;FRA
 French Guiana;GUF
 Gabon;GAB
+Gambia, The;GMB
 Georgia;GEO
 Germany;DEU
 Ghana;GHA
@@ -84,6 +90,7 @@ Kenya;KEN
 Korea, South;KOR
 Kosovo;SRB
 Kuwait;KWT
+Kyrgyzstan;KGZ
 Latvia;LVA
 Lebanon;LBN
 Liberia;LBR
@@ -95,6 +102,7 @@ Maldives;MDV
 Malta;MLT
 Martinique;MTQ
 Mauritania;MRT
+Mauritius;MUS
 Mayotte;MYT
 Mexico;MEX
 Moldova;MDA
@@ -106,6 +114,7 @@ Namibia;NAM
 Nepal;NPL
 Netherlands;NLD
 New Zealand;NZL
+Nicaragua;NIC
 Nigeria;NGA
 North Macedonia;MKD
 Norway;NOR
@@ -160,8 +169,4 @@ US;USA
 Uzbekistan;UZB
 Venezuela;VEN
 Vietnam;VNM
-Djibouti;DJI
-Gambia, The;GMB
-Kyrgyzstan;KGZ
-Mauritius;MUS
 Zambia;ZMB
