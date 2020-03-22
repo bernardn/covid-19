@@ -3,6 +3,7 @@ Afghanistan;AFG
 Albania;ALB
 Algeria;DZA
 Andorra;AND
+Angola;AGO
 Antigua and Barbuda;ATG
 Argentina;ARG
 Armenia;ARM
@@ -24,6 +25,7 @@ Brazil;BRA
 Brunei;BRN
 Bulgaria;BGR
 Burkina Faso;BFA
+Cabo Verde;CPV
 Cambodia;KHM
 Cameroon;CMR
 Canada;CAN
@@ -70,6 +72,7 @@ Guatemala;GTM
 Guernsey;GGY
 Guinea;GIN
 Guyana;GUY
+Haiti;HTI
 Holy See;VAT
 Honduras;HND
 Hungary;HUN
@@ -97,6 +100,7 @@ Liberia;LBR
 Liechtenstein;LIE
 Lithuania;LTU
 Luxembourg;LUX
+Madagascar;MDG
 Malaysia;MYS
 Maldives;MDV
 Malta;MLT
@@ -115,6 +119,7 @@ Nepal;NPL
 Netherlands;NLD
 New Zealand;NZL
 Nicaragua;NIC
+Niger;NER
 Nigeria;NGA
 North Macedonia;MKD
 Norway;NOR
@@ -122,6 +127,7 @@ occupied Palestinian territory;PSE
 Oman;OMN
 Pakistan;PAK
 Panama;PAN
+Papua New Guinea;PNG
 Paraguay;PRY
 Peru;PER
 Philippines;PHL
@@ -170,3 +176,4 @@ Uzbekistan;UZB
 Venezuela;VEN
 Vietnam;VNM
 Zambia;ZMB
+Zimbabwe;ZWE
