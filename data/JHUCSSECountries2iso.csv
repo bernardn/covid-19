@@ -29,6 +29,7 @@ Cabo Verde;CPV
 Cambodia;KHM
 Cameroon;CMR
 Canada;CAN
+Cape Verde;CPV
 Cayman Islands;CYM
 Central African Republic;CAF
 Chad;TCD
@@ -47,11 +48,14 @@ Cyprus;CYP
 Czechia;CZE
 Denmark;DNK
 Djibouti;DJI
+Dominica;DMA
 Dominican Republic;DOM
+East Timor;TLS
 Ecuador;ECU
 Egypt;EGY
 El Salvador;SLV
 Equatorial Guinea;GNQ
+Eritrea;ERI
 Estonia;EST
 Eswatini;SWZ
 Ethiopia;ETH
@@ -66,6 +70,7 @@ Germany;DEU
 Ghana;GHA
 Greece;GRC
 Greenland;GRL
+Grenada;GRD
 Guadeloupe;GLP
 Guam;GUM
 Guatemala;GTM
@@ -114,6 +119,7 @@ Monaco;MCO
 Mongolia;MNG
 Montenegro;MNE
 Morocco;MAR
+Mozambique;MOZ
 Namibia;NAM
 Nepal;NPL
 Netherlands;NLD
@@ -158,15 +164,18 @@ Sudan;SDN
 Suriname;SUR
 Sweden;SWE
 Switzerland;CHE
+Syria;SYR
 Taiwan*;TWN
 Tanzania;TZA
 Thailand;THA
 The Bahamas;BHS
 The Gambia;GMB
+Timor-Leste;TLS
 Togo;TGO
 Trinidad and Tobago;TTO
 Tunisia;TUN
 Turkey;TUR
+Uganda;UGA
 Ukraine;UKR
 United Arab Emirates;ARE
 United Kingdom;GBR
